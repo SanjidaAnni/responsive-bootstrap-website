@@ -6,6 +6,7 @@
     padding: 30px;
     border-radius: 10px;
     background-color: rgb(221, 214, 214);
+    
 }
 .btn-icon{
    width: 30px;
@@ -27,16 +28,9 @@
 .buy-now-button:hover{
     background-color: rgba(82, 173, 7, 0.877);
 }
-.margin-bottom{
-   margin-bottom: 70px;
-   font-size: 30px;
-   font-style: inherit;
-}
-.card-image-section{
-    background-color: rgb(169, 183, 189);
-}
+
 .card{
-    box-shadow: 1px 5px lightgray;
+    box-shadow: 5px 5px 10px lightgrey;
     border: none;
     border-radius: 10px;
     padding: 20px 10px;
@@ -64,4 +58,13 @@
 .footer-right-image img{
     width: 700px;
     height: 450px;
+}
+.margin-bottom-50{
+    margin-bottom: 50px;
+}
+.margin-top{
+    margin-top: 70px;
+}
+.top-section{
+    background-color: #fffbf0;
 }
